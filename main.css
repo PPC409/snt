@@ -1,0 +1,157 @@
+:root{
+    --bg: linear-gradient(#2cc9e5, #39fda2);
+    --blue1: #0c0e71;
+    --blue2: #797cff;
+    --blue3: #04044a;
+    --cyan: cyan;
+    --cred: #bb1c1c;
+    --vert: #135f13;
+    --yellow: #efef24;
+}
+
+*::selection{
+    color:#ff4800;
+    background: rgba(255, 255, 255, 0.077);
+}
+body {
+    font-family: 'Poppins', sans-serif ;
+    background: var(--bg);
+    background-size: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-size: 16px;
+}
+.heading {
+    padding: 160px 50px ;
+    background-position: bottom ;
+    background-size: 150% ;
+    background-repeat: no-repeat ;
+    color: var(--blue1);
+}
+.heading subtitle{
+    font-size: 20px;
+    /* padding-left: 3%; */
+}
+#s{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+#n{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+#t{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+
+/* Responsive Navbar */
+nav {
+    position: sticky ;
+    /* top: 0 ; */
+    /* background-image: url("/ASSETS/wavy-blue.svg") ; */
+    padding: 160px 50px ;
+    /* background-position: bottom ;
+    background-size: 135% ;
+    background-repeat:round;
+    background-color:#0099ff !important; */
+}
+
+.nav-link {
+    font-size: 17px ;
+    background: transparent ;
+    font-family: Lato, sans-serif ;
+    text-transform: capitalize ;
+}
+.nav-link:hover {
+    background: transparent ;
+    color: #fa3c3c ;
+    font-weight: bold ;
+}
+.login-btn:hover {
+    background: var(--blue1) ;
+}
+.navbar {
+   box-shadow: none 
+}
+.navbar-brand {
+   font-size: 25px 
+}
+.navbar-toggler-icon {
+   color: #fff 
+}
+.dropdown-menu{
+    background-color: #765ff8;
+}
+
+.dropdown-item{
+    background: rgb(67, 67, 255);
+}
+
+.ais {
+    border-radius: 30% !important;   /* # NON FONCTIONNEL !!! */
+}
+
+
+
+            /* Page 1 */
+#page1{
+    color: #04044a;
+}
+
+.snt-title{
+    padding: 3%;
+    padding-left: 5%;
+}
+.snt-subtitle{
+    /* padding: 3%; */
+    padding-left: 7%;
+}
+.snt-p{
+    padding: 0.5% 0.3% 1% 7%;
+    /* padding-left: 6%; */
+    font-size: 23px;
+}
+.suite{
+    background-color: #fff764;
+    padding: 1.2%;
+    border-radius: 30px;
+    border: transparent;
+}
+.suite:hover{
+    background-color: #1ae11a;
+    transition: 1s;
+}
+.suite a{
+    text-decoration: none;
+    color: black;
+}
+.suite a:hover{
+    text-decoration: none;
+    color: black;
+}
+.code-block{
+    padding: 2.5% 0.3% 1% 7%;
+    font-size: 23px;
+}
+.cb{
+    padding: 0.5% 0.3% 1% 7%;
+    font-size: 23px;
+}
+.num{
+    font-size: 17px;
+    color: rgb(255, 0, 0);
+}
+.chaps{
+    display: flex;
+    padding: 60px 50px ;
+}
+.chaps-content{
+    margin: 1%;
+}
