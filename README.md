@@ -1,4 +1,4 @@
-# 📘 La SNT
+# 📘 La SNT - Projet Étudiant
 
 ## 📝 Description
 "La SNT" est un projet étudiant réalisé dans le cadre scolaire. C'est un site web dédié à la Sciences Numériques et Technologie (SNT), où vous pouvez explorer les bases de l'informatique, d'Internet, du HTML et de la programmation Python.
