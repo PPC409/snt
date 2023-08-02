@@ -1,10 +1,11 @@
 # 📘 La SNT
 
 ## 📝 Description
-"La SNT" est un site web dédié à Sciences Numériques et Technologie (SNT). Explorez les bases de l'informatique, d'Internet, du HTML et de la programmation Python.
+"La SNT" est un projet étudiant réalisé dans le cadre scolaire. C'est un site web dédié à la Sciences Numériques et Technologie (SNT), où vous pouvez explorer les bases de l'informatique, d'Internet, du HTML et de la programmation Python.
+
 
 ## 📚 Contenu
-- **Chapitre "SNT" :** Découvrez les fondamentaux de SNT et explorez les enjeux éthiques des nouvelles technologies.
+- **Chapitre "SNT" :** Découvrez les fondamentaux de la SNT et explorez les enjeux éthiques des nouvelles technologies.
 
 - **Chapitre "Internet" :** Plongez dans le monde d'Internet, son fonctionnement et son histoire.
 
